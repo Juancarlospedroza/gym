@@ -1,5 +1,4 @@
-# Gym
-<img src="https://github.com/user-attachments/assets/02a5f946-12e5-4a1b-b36e-ae490243f00f" alt="Texto alternativo" style="width:100px; height:auto;" />
+# Gym <img src="https://github.com/user-attachments/assets/02a5f946-12e5-4a1b-b36e-ae490243f00f" alt="Texto alternativo" style="width:30px; height:auto;" />
 
 
 Pronósticos con Machine Learning:
