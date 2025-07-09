@@ -4,6 +4,3 @@
 Pronósticos con Machine Learning:
 
 Para un gimnasio analicé a sus usuarios, tanto a los que cancelaron ese mes como los que no, y utilicé ML para detectar clusters (grupos de tipo) de usuarios, descubrí las características de los usuarios que cancelaron su suscripción, y qué cualidades suelen tener los usuarios que son más regulares. Lo cual me dio muchos insights para ofrecer al equipo de marketing.
-
-
-![videogames](https://github.com/user-attachments/assets/9d8f6dd7-9a2b-43f6-9bee-506f3f9e1599)
